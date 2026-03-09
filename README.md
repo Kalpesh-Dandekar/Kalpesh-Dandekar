@@ -8,70 +8,85 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🔭 Currently working on **FraudCheck – AI Powered Transaction Fraud Detection System**
 * 🌱 Learning **Artificial Intelligence, Machine Learning Integration, System Design, and Advanced MERN Stack**
 * 👯 Open to collaborate on **Modern Web Applications & Scalable Platforms**
-* 💬 Ask me about **MERN Stack, REST APIs, Scalable Platforms, and AI-Driven Applications**
+* 💬 Ask me about **MERN Stack, REST APIs, Scalable Web Platforms, and AI-Driven Applications**
 * 📫 Reach me at **[kalpeshdandekar585@gmail.com](mailto:kalpeshdandekar585@gmail.com)**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kalpesh-dandekar/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,dart"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+### 🧠 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight"/>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-
-<br>
-
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-
-<br>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-Dandekar&theme=tokyonight"/>
@@ -79,7 +94,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-Dandekar&theme=onedark&row=1&column=6"/>
@@ -87,19 +102,32 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-## 👨‍💻 Projects
+# 🚀 Featured Projects
 
-🔹 **FraudCheck**
-AI-Powered Fraud Detection System for analyzing suspicious financial transactions
-Tech Stack: MERN + Machine Learning
+### 🛡 FraudCheck
 
-🔹 **GrowStart**
-Startup Growth & Collaboration Platform with analytics dashboard
+AI-powered fraud detection system analyzing suspicious financial transactions.
+**Tech:** MERN + Machine Learning
 
-🔹 **MediConnect**
-Flutter-based healthcare management platform
+### 🚀 GrowStart
+
+Startup growth & collaboration platform with analytics dashboard.
+
+### 📱 MediConnect
+
+Flutter-based healthcare management platform.
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kalpesh-Dandekar&label=Profile%20Views&color=0e75b6&style=flat"/>
