@@ -13,7 +13,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 * 🔭 Currently working on **FraudCheck – AI Powered Transaction Fraud Detection System**
 * 🌱 Learning **Artificial Intelligence, Machine Learning Integration, System Design, and Advanced MERN Stack**
 * 👯 Open to collaborate on **Modern Web Applications & Scalable Platforms**
-* 💬 Ask me about **MERN Stack, REST APIs, Scalable Web Platforms, and AI-Driven Applications**
+* 💬 Ask me about **MERN Stack, REST APIs, Scalable Platforms, and AI-Driven Applications**
 * 📫 Reach me at **[kalpeshdandekar585@gmail.com](mailto:kalpeshdandekar585@gmail.com)**
 
 ---
@@ -78,9 +78,9 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,7 +89,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-Dandekar&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,7 +97,15 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-Dandekar&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-Dandekar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -116,14 +124,6 @@ Startup growth & collaboration platform with analytics dashboard.
 ### 📱 MediConnect
 
 Flutter-based healthcare management platform.
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
