@@ -8,7 +8,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 * 🔭 Currently working on **FraudCheck – AI Powered Transaction Fraud Detection System**
 * 🌱 Learning **Artificial Intelligence, Machine Learning Integration, System Design, and Advanced MERN Stack**
@@ -18,7 +18,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kalpesh-dandekar/" target="_blank">
@@ -28,7 +28,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
 
@@ -74,27 +74,27 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-Dandekar&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -102,7 +102,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/output/github-contribution-grid-snake-dark.svg"/>
@@ -110,7 +110,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛡 FraudCheck
 
@@ -127,7 +127,7 @@ Flutter-based healthcare management platform.
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kalpesh-Dandekar&label=Profile%20Views&color=0e75b6&style=flat"/>
