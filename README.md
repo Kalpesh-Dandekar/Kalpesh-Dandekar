@@ -74,6 +74,19 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
@@ -94,12 +107,17 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ### 🛡 FraudCheck
 
-AI-powered fraud detection system analyzing suspicious financial transactions.  
+AI-powered transaction fraud detection system analyzing suspicious financial transactions.
+
 **Tech:** MERN + Machine Learning
+
+---
 
 ### 🚀 GrowStart
 
 Startup growth & collaboration platform with analytics dashboard.
+
+---
 
 ### 📱 MediConnect
 
