@@ -74,30 +74,10 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-Dandekar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpesh-Dandekar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -114,7 +94,7 @@ Full Stack Developer (MERN) | Building Scalable Platforms | AI-Driven Web Applic
 
 ### 🛡 FraudCheck
 
-AI-powered fraud detection system analyzing suspicious financial transactions.
+AI-powered fraud detection system analyzing suspicious financial transactions.  
 **Tech:** MERN + Machine Learning
 
 ### 🚀 GrowStart
