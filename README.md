@@ -307,7 +307,7 @@ AI-powered pipeline that automatically translates, generates natural speech, and
 
 <br><br>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Kalpesh-Dandekar/EchoForge-AI">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -386,7 +386,7 @@ Modern healthcare platform focused on appointments, patient management, authenti
 
 <br><br>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Kalpesh-Dandekar/healthsync">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -424,7 +424,7 @@ A scalable platform connecting founders, mentors, and investors with a modern fu
 
 <br><br>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Kalpesh-Dandekar/Growstart">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
