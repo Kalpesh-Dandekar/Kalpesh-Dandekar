@@ -59,25 +59,7 @@ Currently focused on building products that combine **Artificial Intelligence**,
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="mailto:kalpeshdandekar585@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Kalpesh-Dandekar">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/kalpesh-dandekar">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-</div>
+<div align="center"><a href="mailto:kalpeshdandekar585@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Kalpesh-Dandekar"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kalpesh-dandekar"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a></div>
 
 ---
 
@@ -86,6 +68,8 @@ Currently focused on building products that combine **Artificial Intelligence**,
 ### 💡 *"Building software that creates real-world impact through technology and innovation."*
 
 </div>
+
+---
 
 ---
 <!-- ===================================================== -->
