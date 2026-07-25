@@ -1,997 +1,491 @@
-<!-- ========================= HERO SECTION ========================= -->
-
-
+<!-- ===================================================== -->
+<!--                     HERO SECTION                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-
-
-# 👋 Hi, I'm Kalpesh Dandekar
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Open+Source+Enthusiast;Building+Intelligent+Software;MERN+Stack+Developer"/>
-
-
-
-### 💻 Full Stack Developer • AI Engineer • Open Source Enthusiast
-
-
-
-<p>
-
-Building scalable web applications, AI-powered solutions, and modern software that solves real-world problems.
-
-</p>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Kalpesh-Dandekar&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-
-
-</div>
-
-
-
----
-
-
-
-# 💫 About Me
-
-
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
-
-### 👨‍💻 Who Am I?
-
-
-
-- 🎓 B.Tech Information Technology Student
-
-- 💼 Passionate Full Stack Developer
-
-- 🤖 AI & Machine Learning Enthusiast
-
-- 🌐 MERN Stack Developer
-
-- 🚀 Building scalable software products
-
-- 📖 Constantly learning modern technologies
-
-- 🎯 Solving real-world problems through technology
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Kalpesh%20Dandekar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer&descAlignY=58"/>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Open+Source+Learner;Always+Building+Something+New"/>
 
+<br><br>
 
-### ⚡ Quick Facts
+<img src="https://komarev.com/ghpvc/?username=Kalpesh-Dandekar&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
+</div>
 
+---
 
-- 🌱 Currently building **HealthSync**
+# 👨‍💻 About Me
 
-- 🤖 Working on **EchoForge AI**
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 🧠 Practicing **Data Structures & Algorithms**
+### Hi there! 👋
 
-- 💻 Exploring **System Design**
+I'm **Kalpesh Dandekar**, a **Full Stack Developer** passionate about crafting scalable web applications and AI-powered solutions.
 
-- 🌍 Looking to contribute to **Open Source**
+I enjoy transforming ideas into impactful software using modern technologies, backend engineering, and intelligent automation.
 
-- ☕ Powered by coffee and curiosity
+Currently focused on building products that combine **Artificial Intelligence**, **MERN Stack**, and **real-world problem solving**.
 
+<br>
 
+### 🚀 Currently Working On
+
+- 🤖 **EchoForge AI** — Agentic Video Dubbing Engine
+- 🏥 **HealthSync** — Healthcare Management Platform
+- 💻 Strengthening **Data Structures & Algorithms**
+- 🌱 Contributing consistently to **Open Source**
+- 📚 Exploring **System Design & AI Engineering**
 
 <br clear="right"/>
 
-
-
 ---
 
-
-
-# 🎯 Current Focus
-
-
+# ⚡ Tech Snapshot
 
 <div align="center">
 
-
-
-| 🚀 Building | 🧠 Learning | 💻 Practicing | 🌱 Exploring |
-
-|:-----------:|:-----------:|:-------------:|:------------:|
-
-| HealthSync | Artificial Intelligence | DSA | Open Source |
-
-| EchoForge AI | Machine Learning | Problem Solving | System Design |
-
-
+| 💻 Expertise | 🚀 Building | 🌱 Learning |
+|:------------:|:----------:|:-----------:|
+| Full Stack Development | EchoForge AI | AI Engineering |
+| MERN Stack | HealthSync | System Design & Open Source |
 
 </div>
 
-
-
 ---
-
-
 
 # 🌐 Connect With Me
 
-
-
 <div align="center">
-
-
 
 <a href="mailto:kalpeshdandekar585@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-
 </a>
 
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kalpesh-Dandekar">
-
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
-
 </a>
 
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kalpesh-dandekar">
-
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-
 </a>
-
-
 
 </div>
 
-
-
 ---
-
-
-
-# 🚀 What I Love Building
-
-
 
 <div align="center">
 
-
-
-🧠 Artificial Intelligence & Agentic Systems • 🌐 Full Stack Applications • ⚡ REST APIs • ☁️ Cloud-Ready Applications • 📊 Data-Driven Solutions • 🚀 Modern User Experiences
-
-
+### 💡 *"Building software that creates real-world impact through technology and innovation."*
 
 </div>
 
-
-
 ---
+<!-- ===================================================== -->
+<!--                    TECH ARSENAL                       -->
+<!-- ===================================================== -->
 
-<!-- ========================= TECH STACK ========================= -->
-
-
-
-<h1 align="center">🛠 Tech Arsenal</h1>
-
-
+<h1 align="center">⚒️ Tech Arsenal</h1>
 
 <p align="center">
-
-<i>Technologies I use to design, develop, and deploy modern applications.</i>
-
+Technologies I use to design, build, and deploy scalable applications.
 </p>
-
-
 
 ---
 
+## 💻 Languages
 
+<div align="center">
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,dart&perline=6"/>
 
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,dart"/>
-
-</p>
-
-
+</div>
 
 ---
 
+## 🎨 Frontend Development
 
+<div align="center">
 
-## 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter&perline=6"/>
 
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter"/>
-
-</p>
-
-
+</div>
 
 ---
-
-
 
 ## ⚙️ Backend Development
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=3"/>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-
-</p>
-
-
+</div>
 
 ---
-
-
 
 ## 🗄️ Databases
 
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
-</p>
-
-
-
----
-
-
-
-## 🤖 AI / Machine Learning
-
-
-
-<p align="center">
-
-
-
-<img src="https://img.shields.io/badge/Faster%20Whisper-0A192F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-## 🛠 Developer Tools
-
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
-</p>
-
-
-
----
-
-
-
-## ☁️ Deployment & Cloud
-
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
-
-</p>
-
-
-
----
-
-
-
-## 📚 Currently Learning
-
-
-
 <div align="center">
 
-
-
-| 🚀 Domain | 📖 Learning |
-
-|:----------|:------------|
-
-| 🤖 Artificial Intelligence | Agentic AI Systems |
-
-| 🏗️ Backend Engineering | Scalable System Design |
-
-| 🌐 Full Stack Development | Advanced React & Next.js |
-
-| 💻 Problem Solving | Data Structures & Algorithms |
-
-| 🌱 Open Source | Real-world Contributions |
-
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3"/>
 
 </div>
 
-
-
 ---
 
-
-
-## 💡 Development Philosophy
-
-
+## 🤖 AI & Machine Learning
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Faster%20Whisper-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Large%20Language%20Models-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 
-> **"Write clean code, build meaningful products, and never stop learning."**
+<img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-
+<img src="https://img.shields.io/badge/REST%20API-10B981?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
 
+---
 
+## 🛠️ Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&perline=6"/>
+
+</div>
 
 ---
 
-<!-- ========================= DEVELOPER DASHBOARD ========================= -->
+## ☁️ Currently Exploring
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Scalable%20Backend-E11D48?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Core Expertise
+
+| 🌐 Full Stack | 🤖 Artificial Intelligence | ⚡ Backend | 🚀 Deployment |
+|:-------------:|:--------------------------:|:----------:|:-------------:|
+| MERN Stack | Agentic AI | REST APIs | Vercel |
+| React & Next.js | Whisper & LLMs | Flask & Express | GitHub |
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                 DEVELOPER DASHBOARD                   -->
+<!-- ===================================================== -->
 
 <h1 align="center">📊 Developer Dashboard</h1>
 
-
-
 <p align="center">
-
-<i>Consistency • Learning • Building • Growing</i>
-
+<i>Consistency • Contributions • Continuous Learning</i>
 </p>
-
-
 
 <br>
 
-
-
-<!-- GitHub Stats -->
-
-
+<!-- ================= STATS ================= -->
 
 <p align="center">
-
-
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kalpesh-Dandekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Dandekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
-
-
 
 <br>
 
-
-
-<!-- Streak -->
-
-
+<!-- ================= STREAK ================= -->
 
 <p align="center">
 
-
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
-
-
+<img width="80%" src="https://streak-stats.demolab.com?user=Kalpesh-Dandekar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-
-
 ---
 
+<!-- ================= GRAPH ================= -->
 
-
-# ⚡ GitHub Metrics
-
-
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-
-
-
-<img width="95%" src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/main/github-metrics.svg"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 📈 Contribution Graph
-
-
-
-<p align="center">
-
-
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpesh-Dandekar&theme=tokyo-night&hide_border=true"/>
 
-
-
 </p>
-
-
 
 ---
 
+<!-- ================= SNAKE ================= -->
 
-
-# 🐍 Contribution Snake
-
-
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-
 
 <img src="https://raw.githubusercontent.com/Kalpesh-Dandekar/Kalpesh-Dandekar/output/github-contribution-grid-snake-dark.svg"/>
 
-
-
 </p>
-
-
 
 ---
 
-
-
-# 🚀 Development Snapshot
-
-
+## ⚡ Developer Snapshot
 
 <div align="center">
 
-
-
-| 🧠 Currently | 🚀 Building | 📚 Improving | 🌱 Goal |
-
-|:------------:|:-----------:|:------------:|:-------:|
-
-| MERN Stack | HealthSync | DSA & System Design | Software Engineer |
-
-| AI Engineering | EchoForge AI | Open Source | Build Impactful Products |
-
-
+| 🚀 Focus | 💡 Building | 🌱 Currently Learning |
+|:---------:|:-----------:|:---------------------:|
+| Full Stack Development | EchoForge AI | Agentic AI |
+| AI Engineering | HealthSync | System Design |
+| Open Source | Personal Projects | Scalable Architecture |
 
 </div>
 
-
-
 ---
-
-
-
-# ⚙️ Development Environment
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,windows"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 📌 GitHub Summary
-
-
 
 <div align="center">
 
+### 📌 What You'll Find Here
 
-
-| 💻 Coding | 🤖 AI | 🌐 Full Stack | 📈 Growth |
-
-|:---------:|:-----:|:-------------:|:---------:|
-
-| Daily Learning | Agentic AI | MERN Stack | Continuous Improvement |
-
-
+🚀 Full Stack Projects • 🤖 AI Applications • 📚 Continuous Learning • 💡 Real-World Solutions
 
 </div>
 
-
-
 ---
-
-
-
-<p align="center">
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Kalpesh-Dandekar&style=for-the-badge&color=0ea5e9"/>
-
-
-
-</p>
-
-
-
----
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
-
-
+<!-- ===================================================== -->
+<!--                 FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
 
 <h1 align="center">🚀 Featured Projects</h1>
 
-
-
 <p align="center">
-
-<i>Projects that reflect my passion for Full Stack Development, Artificial Intelligence, and solving real-world problems.</i>
-
+A selection of projects showcasing my experience in <b>Full Stack Development</b> and <b>Artificial Intelligence</b>.
 </p>
 
-
-
 <br>
-
-
 
 <table>
 
 <tr>
 
-
-
 <td width="50%" valign="top">
 
+<h3>🤖 EchoForge AI</h3>
 
+<b>Agentic Video Dubbing Engine</b>
 
-## 🤖 EchoForge AI ⭐
+AI-powered pipeline that automatically translates, generates natural speech, and synchronizes dubbed videos while preserving timing and speaker identity.
 
+<br><br>
 
+<b>✨ Highlights</b>
 
-### Agentic Video Dubbing Engine
-
-
-
-An AI-powered multi-agent pipeline that translates, voices, and synchronizes videos while preserving speaker identity and timing.
-
-
-
-### ✨ Highlights
-
-
-
-- 🎙️ Speech-to-Text
-
-- 🌍 Multi-language Translation
-
-- 🗣️ Neural Text-to-Speech
-
+- 🎙 Speech Recognition
+- 🌍 AI Translation
+- 🗣 Neural Text-to-Speech
 - 👥 Speaker Diarization
-
 - 🎬 Audio Synchronization
 
-- 🤖 Agentic AI Pipeline
+<br>
 
+<b>🛠 Tech Stack</b>
 
+<br>
 
-### 🛠 Tech Stack
+<code>Python</code>
+<code>Faster-Whisper</code>
+<code>FFmpeg</code>
+<code>TTS</code>
+<code>LLMs</code>
 
+<br><br>
 
-
-`Python` `Faster Whisper` `FFmpeg` `TTS` `LLMs`
-
-
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-
-
 
 <td width="50%" valign="top">
 
+<h3>🛡 FraudCheck</h3>
 
+<b>AI Fraud Detection Platform</b>
 
-## 🛡️ FraudCheck ⭐
+A full-stack platform that analyzes transactions and helps detect suspicious financial activities using AI and analytics.
 
+<br><br>
 
+<b>✨ Highlights</b>
 
-### AI Fraud Detection Platform
-
-
-
-A MERN-based platform that leverages AI and analytics to detect suspicious financial transactions through an intuitive dashboard.
-
-
-
-### ✨ Highlights
-
-
-
-- 🤖 AI Fraud Detection
-
+- 🤖 AI Detection
 - 📊 Analytics Dashboard
-
-- 🔐 JWT Authentication
-
-- 📈 Transaction Monitoring
-
+- 🔐 Authentication
 - ⚡ REST APIs
-
 - 📱 Responsive UI
 
+<br>
 
+<b>🛠 Tech Stack</b>
 
-### 🛠 Tech Stack
+<br>
 
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>Python</code>
 
+<br><br>
 
-`React` `Node.js` `Express` `MongoDB` `Python`
-
-
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-
-
 
 </tr>
 
-
-
 <tr>
 
-
-
 <td width="50%" valign="top">
 
+<h3>🏥 HealthSync</h3>
 
+<b>Healthcare Management Platform</b>
 
-## 🏥 HealthSync ⭐
+Modern healthcare platform focused on appointments, patient management, authentication, and a clean user experience.
 
+<br><br>
 
+<b>✨ Highlights</b>
 
-### Healthcare Management Platform
-
-
-
-A scalable healthcare platform for appointments, authentication, and patient record management with a modern UI.
-
-
-
-### ✨ Highlights
-
-
-
-- 👨‍⚕️ Doctor Portal
-
+- 👨‍⚕ Doctor Portal
 - 📅 Appointment Scheduling
-
 - 🔒 Secure Authentication
-
 - 📂 Medical Records
-
 - 📊 Dashboard
 
-- ⚡ Responsive Design
+<br>
 
+<b>🛠 Tech Stack</b>
 
+<br>
 
-### 🛠 Tech Stack
+<code>React</code>
+<code>TypeScript</code>
+<code>Node.js</code>
+<code>MongoDB</code>
 
+<br><br>
 
-
-`React` `TypeScript` `Node.js` `MongoDB`
-
-
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-
-
 
 <td width="50%" valign="top">
 
+<h3>🚀 GrowStart</h3>
 
+<b>Startup Growth Ecosystem</b>
 
-## 🚀 GrowStart ⭐
+A scalable platform connecting founders, mentors, and investors with a modern full-stack architecture.
 
+<br><br>
 
-
-### Startup Growth Ecosystem
-
-
-
-A modern platform connecting founders, mentors, and investors through scalable full-stack architecture.
-
-
-
-### ✨ Highlights
-
-
+<b>✨ Highlights</b>
 
 - 🚀 Startup Profiles
-
 - 💼 Investor Dashboard
-
 - 🤝 Mentor Network
-
 - 📈 Growth Tracking
-
 - 🌐 Responsive Design
 
-- ⚡ REST APIs
+<br>
 
+<b>🛠 Tech Stack</b>
 
+<br>
 
-### 🛠 Tech Stack
+<code>Next.js</code>
+<code>React</code>
+<code>TypeScript</code>
+<code>Tailwind CSS</code>
+<code>MongoDB</code>
 
+<br><br>
 
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
-
-
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-
-
 
 </tr>
 
 </table>
 
-
-
 ---
-
-
-
-<h1 align="center">🛤️ My Developer Journey</h1>
-
-
-
-<div align="center">
-
-
-
-```text
-
-🎓 2023
-
-│
-
-├── Started B.Tech in Information Technology
-
-│
-
-├── Learned C++ & Problem Solving
-
-│
-
-├── Explored Flutter Development
-
-│
-
-├── Built Full Stack MERN Projects
-
-│
-
-├── Entered AI & Machine Learning
-
-│
-
-├── Developed EchoForge AI
-
-│
-
-├── Built FraudCheck & HealthSync
-
-│
-
-└── 🚀 Next Goal → Software Engineer + Open Source Contributor
-
-```
-
-
-
-</div>
-
-
-
----
-
-
-
-<h1 align="center">🎯 2026 Goals</h1>
-
-
-
-<div align="center">
-
-
-
-| 🎯 Goal | Status |
-
-|:---------|:------:|
-
-| 🚀 Build Production-Level Projects | ✅ |
-
-| 📚 Master MERN Stack | 🚧 |
-
-| 🤖 Learn AI Engineering | 🚧 |
-
-| 🌱 Contribute to Open Source | 🎯 |
-
-| 💼 Secure Software Engineering Internship | 🎯 |
-
-
-
-</div>
-
-
-
----
-
-
-
-<h1 align="center">💭 Developer Philosophy</h1>
-
-
-
-<div align="center">
-
-
-
-> **"Code is not just about solving problems—it's about creating solutions that make a difference."**
-
-
-
-</div>
-
-
-
----
-
-
 
 <h1 align="center">🤝 Let's Connect</h1>
 
-
-
 <p align="center">
 
+I'm always interested in collaborating on **Full Stack**, **Artificial Intelligence**, and **Open Source** projects.
 
-
-I'm always open to collaborating on **Full Stack**, **AI**, and **Open Source** projects.
-
-
-
-Let's build something impactful together! 🚀
-
-
+Let's build something impactful together.
 
 </p>
 
-
-
 <div align="center">
 
-
-
 <a href="mailto:kalpeshdandekar585@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
 
 <a href="https://www.linkedin.com/in/kalpesh-dandekar">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
 
 <a href="https://github.com/Kalpesh-Dandekar">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
 
 </div>
 
-
-
 ---
-
-
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:2563EB,100:38BDF8&section=footer"/>
 
+### ⭐ Thanks for visiting my profile!
 
-## ⭐ Thanks for Visiting!
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-
-
-### 🚀 Happy Coding!
-
-
+**Happy Coding 🚀**
 
 </div>
